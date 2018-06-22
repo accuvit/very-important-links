@@ -2,7 +2,7 @@
 
 ## General:
 * **EQuimper's nice repo** - https://github.com/EQuimper/All-About-Programming
-* **One of the best repos in GitHub** - https://github.com/danistefanovic/build-your-own-x
+* **One of the best repos in GitHub (Build your own x)** - https://github.com/danistefanovic/build-your-own-x
 ___
 
 ## Machine Learning / Data Science:
@@ -32,7 +32,9 @@ ___
   
 ### Learning:
 * **PluralSight hack.guides()** - https://github.com/pluralsight/guides
-  
+* **Hackr.io** - https://hackr.io/
+* **Learn X in Y minutes** - https://learnxinyminutes.com/
+* **Python Books** - https://pythonbooks.revolunet.com/
 ___
 
 ## Arduino & Stuff:
@@ -52,3 +54,4 @@ ___
 ## Misc:
 * **Cool tutorial for ThreeJS** - https://www.phyramid.com/en/blog/making-phyramid-coms-procedurally-rendered-3d-header/
 * **Trying to make LaTeX stuff in MarkDown** - https://github.com/cben/mathdown/wiki/math-in-markdown
+* **Hear some weird shit** - http://websdr.ewi.utwente.nl:8901/
