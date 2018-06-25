@@ -10,6 +10,17 @@ ___
 
 ___
 
+## Web Development:
+
+* **Resources for CSS**: http://completewebdevelopercourse.com/content/furtherreading/Further%20Reading%202%20-%20CSS.pdf
+* **JS Function Reference**: http://completewebdevelopercourse.com/content/furtherreading/Reference%203%20-%20Javascript.pdf
+* **Resources for JS**: http://completewebdevelopercourse.com/content/furtherreading/Further%20Reading%203%20-%20Javascript.pdf
+* **Resources for Bootstrap**: http://completewebdevelopercourse.com/content/furtherreading/Further%20Reading%20-%20Bootstrap.pdf
+* **Resources for WordPress**: http://completewebdevelopercourse.com/content/furtherreading/Further%20Reading%20-%20Wordpress.pdf
+* **Resources for MySQL**: http://completewebdevelopercourse.com/content/furtherreading/Further%20Reading%20-%20MySQL.pdf
+
+___
+
 ## Competitive Programming:
 
 ### Judges and Learning:
